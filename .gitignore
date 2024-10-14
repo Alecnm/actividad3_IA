@@ -1,0 +1,9 @@
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de datos grandes
+data/*.csv
+
+# Ignorar configuraciones de entorno de desarrollo
+.env
